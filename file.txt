@@ -1,1 +1,5 @@
 welcome to aws devops
+
+welocme to doker
+welcome to kubarnetes
+welcome to teraforms
